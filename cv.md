@@ -17,9 +17,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - JAVA SCRIPT
 
 ## __Code Example__
-`const sum = (a,b) => {
+```
+const sum = (a,b) => {
  return a + b
 }
 
 sum(5,10)
-`
+```
