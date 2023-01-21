@@ -1,4 +1,4 @@
-#__[rsschool-cv](https://github.com/CTAHuClAB/rsschool-cv/)__
+# __[rsschool-cv](https://github.com/CTAHuClAB/rsschool-cv/)__
 # __Khakimov Stas__
 
 ## __contacts:__
@@ -17,9 +17,10 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - JAVA SCRIPT
 
 ## __Code Example__
-`const sum = (a,b) => {
+```
+const sum = (a,b) => {
  return a + b
 }
 
 sum(5,10)
-`
+```
