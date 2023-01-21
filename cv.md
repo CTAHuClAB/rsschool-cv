@@ -8,9 +8,18 @@
 - Githab: [Khakimov Stas](https://github.com/CTAHuClAB) 
 
 # __About me__
-Всем привет. Меня зовут Стас, мне 25 и я алкоголик. Я люблю футбол и кататься на лыжах. Я хочу стать крутым программистом. Всем пока.
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 
 # __skills:__
 - HTML
 - SCC
 - JAVA SCRIPT
+
+## __Code Example__
+`const sum = (a,b) => {
+ return a + b
+}
+
+sum(5,10)
+`
