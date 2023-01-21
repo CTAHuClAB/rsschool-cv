@@ -1,4 +1,4 @@
-#__[rsschool-cv](https://github.com/CTAHuClAB/rsschool-cv/)__
+# __[rsschool-cv](https://github.com/CTAHuClAB/rsschool-cv/)__
 # __Khakimov Stas__
 
 ## __contacts:__
