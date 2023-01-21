@@ -1,8 +1,8 @@
-#__[rsschool-cv](https://github.com/CTAHuClAB/rsschool-cv/)
-# __Khakimov Stas
+#__[rsschool-cv](https://github.com/CTAHuClAB/rsschool-cv/)__
+# __Khakimov Stas__
 
-## __contacts:
--__location:__Sarapul, Russia
--__Phone:__+79127476662
--__Email:__khakimov-92@inbox.ru
--__Githab:__[Khakimov Stas](https://github.com/CTAHuClAB) 
+## __contacts:__
+- location: Sarapul, Russia
+- Phone:+79127476662
+- Email: khakimov-92@inbox.ru
+- Githab: [Khakimov Stas](https://github.com/CTAHuClAB) 
